@@ -1,7 +1,7 @@
 # Electric-Vehicle-Analysis
 # 🚗 Electric Vehicle Market Analysis: Strategic Insights for AtliQ Motors
 
-Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
+Developed by [Purva Nikam](https://www.linkedin.com/in/purva-nikam-704434315/).
 
 ## 🎯 Project Overview
 This project, part of the Codebasics Resume Project Challenge #11, focuses on analyzing the Indian Electric Vehicle (EV) and Hybrid Vehicle market to support AtliQ Motors in expanding their market presence in India, where their current market share is under 2%.
@@ -68,4 +68,4 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! Feel free to open issues for any suggestions or bugs encountered. If you'd like to contribute, please fork the repository and submit a pull request. For direct communication, you can email me at [ameyamoddak26@gmail.com](mailto:ameyamoddak26@gmail.com).
+Feedback and contributions are welcome! Feel free to open issues for any suggestions or bugs encountered. If you'd like to contribute, please fork the repository and submit a pull request. For direct communication, you can email me at [purvan76@gmail.com](mailto:purvan76@gmail.com).
